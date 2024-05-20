@@ -7,6 +7,6 @@
 
 [超連結](http://tw.yahoo.com)
 
-｜ 姓名| 年齡 ｜ 專長 ｜
+｜ 姓名| 年齡 ｜專長 ｜
 ｜-｜-｜-｜
-｜yuyu｜28｜design｜
+｜yuyu｜120｜design｜
